@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashj74" alt="avinashj74" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Web Development**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **avinajenash9753@gmail.com**
 
